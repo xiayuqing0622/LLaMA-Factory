@@ -571,5 +571,13 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "profiler_data": {
+    "file_name": "profiler_data.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
   }
 }
